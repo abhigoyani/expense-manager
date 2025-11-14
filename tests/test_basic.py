@@ -210,3 +210,7 @@ def test_case_306():
 
 def test_case_308():
     assert 308 == 308
+
+
+def test_case_310():
+    assert 310 == 310
