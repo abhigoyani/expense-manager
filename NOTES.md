@@ -108,3 +108,4 @@
 - Note 372: item 5362
 - Note 375: item 7817
 - Note 378: item 4076
+- Note 379: item 8076
