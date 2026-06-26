@@ -143,3 +143,4 @@
 - Note 483: item 8712
 - Note 487: item 9766
 - Note 488: item 2874
+- Note 495: item 6542
