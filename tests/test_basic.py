@@ -358,3 +358,7 @@ def test_case_492():
 
 def test_case_502():
     assert 502 == 502
+
+
+def test_case_505():
+    assert 505 == 505
